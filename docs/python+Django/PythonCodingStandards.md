@@ -46,10 +46,6 @@
 
 # Python Naming Conventions
 
-## Names to Avoid
-- Never use the characters 'l' (lowercase letter el), 'O' (uppercase letter oh), or 'I' (uppercase letter eye) as single character variable names.
-- In some fonts, these characters are indistinguishable from the numerals one and zero. When tempted to use 'l', use 'L' instead.
-
 ## ASCII Compatibility
 - Identifiers used in the standard library must be ASCII compatible as described in the policy section of PEP 3131.
 
@@ -90,6 +86,10 @@
 
 ## Constants
 - Constants are usually defined on a module level and written in all capital letters with underscores separating words. Examples include MAX_OVERFLOW and TOTAL.
+
+## Names to Avoid
+- Never use the characters 'l' (lowercase letter el), 'O' (uppercase letter oh), or 'I' (uppercase letter eye) as single character variable names.
+- In some fonts, these characters are indistinguishable from the numerals one and zero. When tempted to use 'l', use 'L' instead. 
 
 
 

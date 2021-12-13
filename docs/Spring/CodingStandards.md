@@ -15,7 +15,7 @@ It is always recommended to follow the below package structure while creating a 
 
 ### It is recomannded to use Auto-configuration in Spring Boot:
 
-Auto-configuration is the part of Spring Boot that makes our code simply work. Auto-configuration attempts to automatically configure our Spring application based on the jar dependencies that we have added. For example, if H2 database is on the classpath, and we have not manually configured any database connection beans, then Spring Boot auto-configures an H2 in-memory database. We need to opt-in to auto-configuration by adding the `@EnableAutoConfiguration` or `@SpringBootApplication` annotations to one of our Configuration classes. It is generally recommended that we add one or the other annotation to our primary Configuration class only. Definitely take advantage of Spring Boot’s auto-configuration instead of manually injecting beans or intercepting any requests.
+Auto-configuration is the part of Spring Boot that makes our code work without hassle. Auto-configuration attempts to automatically configure our Spring application based on the jar dependencies that we have added. For example, if H2 database is on the classpath, and we have not manually configured any database connection beans, then Spring Boot auto-configures an H2 in-memory database. We need to opt-in to auto-configuration by adding the `@EnableAutoConfiguration` or `@SpringBootApplication` annotations to one of our Configuration classes. It is generally recommended that we add one or the other annotation to our primary Configuration class only. Definitely take advantage of Spring Boot’s auto-configuration instead of manually injecting beans or intercepting any requests.
 
 ## Logging Rules:
 * Never use System.out
