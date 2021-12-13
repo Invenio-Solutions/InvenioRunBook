@@ -10,7 +10,7 @@ Invenio prioritizes on  the incorporation of the enterprise security standards a
 3 **API Availability and Reliability** : In the present times, with microservices led architecture it is important that the services provided by an API are always available to respond without compromising on the integrity of the data. Horizantal Scaling can be done to acheive the same.
 
 
-# How this can be acheived with Mulesoft?
+### How this can be acheived with Mulesoft?
 
 Mulesoft addresses these security spectrums and provides solution that can be incorporated to acheive maximum API security. Mule has imbibed **HTTPS Connector**, **Mule Secure Token Service Oauth2.0 Provider**, **Mule HA Clusters** and many more measures are available to maintain the primary principles of security. Along with it, **AnyPoint Monitoring** , **Policies** are certain ways in which the performance can be monitored and security measures can be curated.
 
