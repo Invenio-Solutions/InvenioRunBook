@@ -8,7 +8,6 @@ This playbook is a series of strategies and approaches our organisation adopts i
 
 # Who this Playbook is for?
 
-- This playbook is for any new developers, or new Organisations that we work with, to get a feel of how SDLC goes in InvenioLSI.
 - This playbook is designed to achieve greater synchronization between different verticals of InvenioLSI, such that any application created has a predefined set of rules and paradigms, and the management has a smooth time figuring out the technicals.
 
 
