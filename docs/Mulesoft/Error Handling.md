@@ -5,6 +5,7 @@ Error Handling forms an innate part of a seamless microservices architechture. I
 * System Errors : These flows covers the deplyment and code related issues.
 
 * Messaging Errors: This error encompasses the errors in the processing of an event in a mule flow. This error type creates an error object upon occurence which consist of the following components:
+
          1. Description
 
          2. Type
@@ -36,9 +37,9 @@ These errors in a mule application can be handled in three different scopes:
 ### Documentation
 There are several documentation on how to efficiently enable error handling in a mule application. Some of these are:
 
-1. [This documentation]<https://docs.mulesoft.com/mule-runtime/4.4/error-handling> explains the configuration for the error handlers in mule.
+1. [This documentation](https://docs.mulesoft.com/mule-runtime/4.4/error-handling) explains the configuration for the error handlers in mule.
 
-2.  A detailed four series blog on Error Handling in a mule application is [here]<https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mule4-error-handling/>
+2.  A detailed four series blog on Error Handling in a mule application is [here](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mule4-error-handling/)
 
-3. A video tutorial on the same is also available [here]<https://videos.mulesoft.com/watch/97pfQvqqAYPubhLTcP4jRH>
+3. A video tutorial on the same is also available [here](https://videos.mulesoft.com/watch/97pfQvqqAYPubhLTcP4jRH)
 
