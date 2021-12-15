@@ -1,5 +1,5 @@
 # Exception Handling
-Exception handling in java is used to handle the runtime errors that disrupts the normal flow of the program. This mechanism helps to maintain and improve the performances of program statement.
+Exception handling in java is used to handle the runtime errors that disrupts the normal flow of the program. This mechanism helps to maintain and improve the performance of program statement.
 
 The root class of Java Exception hierarchy is jang.lang.Throwable. It is inherited by two subclasses. They are,
 * Exception
@@ -27,7 +27,7 @@ There are three types of Java Exception.
 * **Error**:- It is irrecoverable that indicates a serious problem that an application should not try to catch. For example StackOverFlow, OutOfMemoryError, VirtualMachineError.
 
 ## Default Exception Handling
-If an exception occurs inside a method, the method creates an Object known as Exception Object and hands it off to JVM(run-time system). This exception object contains a name, reason for the cause of exception and current state of the program where exception has occured.This creation of object and handling it ot run-time system is called throwing an exception.
+If an exception occurs inside a method, the method creates an Object known as **Exception Object** and hands it off to JVM(run-time system). This exception object contains a name, reason for the cause of exception and current state of the program where exception has occured.This creation of object and handling it ot run-time system is called throwing an exception.
 
 [Default Exception Handling](https://www.geeksforgeeks.org/exceptions-in-java/)
 
@@ -40,13 +40,13 @@ If an exception occurs inside a method, the method creates an Object known as Ex
  - To catch and provide specific treatment to a subset of existing Java exceptions.
 
 - Business logic exceptions: These are the exceptions related to business logic and workflow. 
-  It is useful for the application users or the     developers to understand the exact problem.
+  It is useful for the application users or the  developers to understand the exact problem.
 
 ### Java Exception Keywords
 There are five keywords specified in java to handle the exceptions.
 - **try** : The "try" block is used to place the program statment or exception code that may raise an exception followed by either catch or finally block.
 
-- **catch** : The "catch" block is used to handle the exception. It must be preceeded by try block and can be followed by finally block. It catches the exception that is raised by try block
+- **catch** : The "catch" block is used to handle the exception. It must be preceeded by try block and can be followed by finally block. It catches the exception that is raised by try block.
 
 - **finally** :  The "finally" block is used to excute a particular block of code even if the exception is handled or not.
 
