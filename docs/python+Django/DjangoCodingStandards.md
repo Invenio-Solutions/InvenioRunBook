@@ -3,7 +3,8 @@
 
 Django is a Python-based web framework that allows you to quickly create efficient web applications. 
 
-[For Python Coding Standard, you can refer the link] (PythonCodingStandards.md)
+[For Python Coding Standard, you can refer the link](PythonCodingStandards.md)
+
 
 ## Naming Convention
 - Use meaningful names

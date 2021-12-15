@@ -24,4 +24,5 @@ Double-check that you’re using legitimate and updated packages. It’s possibl
 ## 6. Keep your servers up to date
 Develop a habit of checking that all your software is updated and compatible with your Python code. Random human error can destroy work that took years of planning. So make sure that the software and security management systems are up to date.
 
+***
 [Click here for the detailed security practices](https://www.python.org/dev/security/)
