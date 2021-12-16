@@ -8,12 +8,13 @@ Some of the typical services implemented by a provider are:
 Take a look into [Security Architecture in Java](https://www.baeldung.com/java-security-overview)
 
 ## Security in Java
--  [Cryptography](C:\Users\Saarga.Satheesh\Documents\GitHub\InvenioRunBook\docs\Java\Cryptography.md)
-- [PKI Support](C:\Users\Saarga.Satheesh\Documents\GitHub\InvenioRunBook\docs\Java\PKISupport.md)
-- [Authentication](C:\Users\Saarga.Satheesh\Documents\GitHub\InvenioRunBook\docs\Java\Authentication.md)
-- [Secure Communication](C:\Users\Saarga.Satheesh\Documents\GitHub\InvenioRunBook\docs\Java\SecureCommunication.md)
-- [Access Control](C:\Users\Saarga.Satheesh\Documents\GitHub\InvenioRunBook\docs\Java\AccessControl.md)
-- [XML Signature](C:\Users\Saarga.Satheesh\Documents\GitHub\InvenioRunBook\docs\Java\XMLConfiguration.md)
+-  [Cryptography](Cryptography.md)
+
+- [PKI Support](PKISupport.md)
+- [Authentication](Authentication.md)
+- [Secure Communication](SecureCommunication.md)
+- [Access Control](AccessControl.md)
+- [XML Signature](XMLConfiguration.md)
 
 
 
