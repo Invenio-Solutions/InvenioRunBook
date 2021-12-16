@@ -1,6 +1,6 @@
 # Spring Security Practices
 
-Spring Boot security can mean different things. In general, it is adding the Spring Security framework to your Spring Boot web application by including the Spring Boot security starter dependency. Spring Security is an authentication and access-control framework and can be easily included in a Spring Boot application. On the other hand, Spring Boot security is more than just including the Spring Security framework.
+Spring Boot security can mean different things. In general, it is adding the Spring Security framework to your Spring Boot web application by including the Spring Boot security starter dependency. Spring Security is an authentication and access-control framework and can be easily included in a Spring Boot application.
 
 ## Use HTTPS in Production
 

@@ -1,4 +1,4 @@
-# MULE APPLICATION
+# MULE APPLICATION BEST PRACTICES
 
 It is important that we bring about consistency while creating our Mule Application so that these applications are easily comprehendable within the organization as well as the clients. Hence, it is important that certain standards are considered while creating the application. The areas that would be covered are:
 1. AnyPoint Studio
@@ -9,7 +9,7 @@ It is important that we bring about consistency while creating our Mule Applicat
 6. API URL
 7. Mule Flow
 
-#### AnyPoint Studio:
+### AnyPoint Studio:
 - It is important to keep the Anypoint Studio Updated.
 - The projects must be upgraded to the  latest patch version.
 - The Mule Runtime version  must be coherent within the SDLC.
@@ -34,7 +34,7 @@ It is preferred to have the following in a mule application.
 - JSON files should be camel cased
 - REST related components should have Capitalized first letter with space between words.
 
-### APIKIT:
+### APIKit:
 - Mule has the provision for APIKIT, which enables creating of the flows automatically based on the RAML file.
 - The APIKit Strategy can be leveraged to catch the connector related exception
 - The APIKit console must be disabled to avoid security related threats.
@@ -51,6 +51,7 @@ Dataweave tools are primarily used for querying and transformation of data in Mu
 
 ### Mule Flows:
 - Mule flows must be simple and clear. 
+- It is preffered that a Mule flow is kept short focussing on a single work. This appraoch can help in acheiving a great **test coverage**. Read more about testing in mule [here.](Testing.md)
 - Only the variables required for the flow must be defined.
 - External Component calls must be equipped with exception handling
 - To advocate reusablity and individualizing of logics, flow references must be used.
