@@ -1,8 +1,8 @@
 # Testing in Mule
 
 Testng is an important part of software development as it is an innate requirement that the errors and vulnerablities of a code are being idetified and mitigated at an very early stage. This will ensure that the code design when integrated in the production environment works efficiently. To test an application in mule, MUnit can be used. MUnit is a testing framework provided by Mule. 
-> An efficient Munit Testing module must keep the following into consideration
 
+> An efficient Munit Testing module must keep the following into consideration
 
 ### Unit Test should cover a single flow at a time
 - This will falicitate visibility and help in tracing the cause of the error.

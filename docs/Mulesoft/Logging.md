@@ -6,10 +6,14 @@ Mule provisions logging through **Runtime Logs** and **Application Logs**. It su
 There are certain standards that is required to follow as a best practices in logging.
 
 - Standardizing the logging format. for example: JSON
-- Logging must be clear, concise and relevant without adding much overhead.
+
+- Logging must be clear, concise and relevant with minimal overhead.
+
 - The logging message must be informative and must provide visibility in tracing and debugging.
-- It is important that the logs are persisted and maintained
-- It is preffered to provide log category to the logging component in order to determine if that particular log is important for production level or not.
+
+- It is important that the logs are persisted and maintained.
+
+- It is important to categorize the logs based on the severity and other requirements.
 
 
 ### Documentation
