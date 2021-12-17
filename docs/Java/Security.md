@@ -5,7 +5,6 @@
 - Cryptographic Algorithms (such as DSA, RSA, or SHA-256)
 - Key generation, conversion, and management facilities (such as for algorithm-specific keys)
 
-Take a look into [Security Architecture in Java](https://www.baeldung.com/java-security-overview)
 
 ## Security in Java
 - [Cryptography](Cryptography.md)
