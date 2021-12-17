@@ -6,7 +6,7 @@ The root class of Java Exception hierarchy is jang.lang.Throwable. It is inherit
 * Error
 
 ## Hierarchy Of Java Exception Classes
-![Java Error Handling Exception Hierarchy](https://lh3.googleusercontent.com/proxy/-cWUpJd2__37heAZgYr02jL-SMU0zd2TiPBdb47td4CAHXp0CxayJ277wIjsAu99qeWeilUHJnW8_q4ZGDoPOQ5AUrSXy5RNFR49shbyAqLyLPjRAGbhZGKVCR4x62tSY2IIHlyen8Tmnb0)
+![Java Error Handling Exception Hierarchy](https://static.javatpoint.com/core/images/hierarchy-of-exception-handling.png)
 
 One branch is headed by exception and the onther by error. Exception class is used for exceptional conditions that user programs should catch. For example IOException,ArrayIndexOutOfBoundsException, etc.
 
