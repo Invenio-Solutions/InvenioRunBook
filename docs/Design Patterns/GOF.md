@@ -30,7 +30,7 @@ The behavioral pattern of GoF highlights on how the classes and object communica
 ![The following diagram shows the integration of the static code analysis factor in the pipeline.](/docs/docs-images/GOF_Behavioral.jpg)
 
 
-The following links provide a detailed overview on the GoF Patterns:
+> ### The following links provide a detailed overview on the GoF Patterns:
 
 1. [GoF Design Patterns.](http://www.blackwasp.co.uk/gofpatterns.aspx)
 2. [GoF Patterns](https://www.gofpatterns.com/design-patterns/module2/three-types-design-patterns.php)

@@ -1,8 +1,5 @@
 # Exception Handling
-
 Exception handling in java is used to handle the runtime errors that disrupts the normal flow of the program. This mechanism helps to maintain and improve the performance of program statement.
-
-> We at InvenioLsi take utmost care that the possible exceptions are handled in order to facilitate a seamless customer experience.
 
 The root class of Java Exception hierarchy is jang.lang.Throwable. It is inherited by two subclasses. They are,
 * Exception
@@ -10,11 +7,32 @@ The root class of Java Exception hierarchy is jang.lang.Throwable. It is inherit
 
 ## Hierarchy Of Java Exception Classes
 
-![Java Error Handling Exception Hierarchy](https://lh3.googleusercontent.com/proxy/-cWUpJd2__37heAZgYr02jL-SMU0zd2TiPBdb47td4CAHXp0CxayJ277wIjsAu99qeWeilUHJnW8_q4ZGDoPOQ5AUrSXy5RNFR49shbyAqLyLPjRAGbhZGKVCR4x62tSY2IIHlyen8Tmnb0)
+- Throwable
+  - Exception
+    - IO Exception
+    - SQL Exception
+    - ClassNotFound Exception
+    - Runtime Exception
+      
+      - Arithmetic Exception
+      - NullPointer Exception
+      - NumberFormat Exception
+      - IndexOutofBounds Exception
 
-One branch is headed by exception and the onther by error. Exception class is used for exceptional conditions that user programs should catch. For example IOException,ArrayIndexOutOfBoundsException, etc.
+        - ArrayIndexBounds Exception
 
-JVM indicates error present in the run time environment. 
+        - StringIndexOutOfBounds Exception
+    
+  - Error
+    - StackOverFlow Exception
+
+    - VirtualMachine Error
+    - OutOfMemory Error
+
+
+It is divided into exception and error. Exception class is used for exceptional conditions that user programs should catch. For example IOException,ArrayIndexOutOfBoundsException, etc.
+
+JVM indicates error present in the run time environment. For example StackOverFlow etc.
 
 ## Types of Java Exception
 There are three types of Java Exception.
@@ -22,7 +40,7 @@ There are three types of Java Exception.
 * Unchecked Exception
 * Error
 
-![Types of JE](https://static.javatpoint.com/core/images/types-of-exception-handling.png)
+
 
 * **Checked Exception**:- The classes that directly inherit the Throwable class except RuntimeException and Error are known as checked exceptions. For example, IOException, SQLException, etc. Checked exceptions are checked at compile-time.
 
@@ -33,7 +51,7 @@ There are three types of Java Exception.
 ## Default Exception Handling
 If an exception occurs inside a method, the method creates an Object known as **Exception Object** and hands it off to JVM(run-time system). This exception object contains a name, reason for the cause of exception and current state of the program where exception has occured.This creation of object and handling it ot run-time system is called throwing an exception.
 
-[Default Exception Handling](https://www.geeksforgeeks.org/exceptions-in-java/)
+
 
 ## Customized Exception handling
 
@@ -57,5 +75,3 @@ There are five keywords specified in java to handle the exceptions.
 - **throw** : The "throw" keyword is used to manually throw an exception.
 
 - **throws** : The "throws" keyword is used to declare exceptions. It doesn't throw an exception but specifies that an exception may occur in the method.
-
-For example : [Custom Exception](https://www.w3schools.com/java/java_try_catch.asp)
