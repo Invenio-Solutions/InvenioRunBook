@@ -1,5 +1,7 @@
 # Spring Coding Standards
 
+>> *We at InvenioLSI aspire to continously improve the code quality and to acheive this we adopt the following coding standards to make the code sustainable.*
+
 ## Application Structure:
 
 It is always recommended to follow the below package structure while creating a spring based project

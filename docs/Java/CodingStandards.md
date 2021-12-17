@@ -10,7 +10,7 @@ Java being one of the evergreen programming languages has a strong presence in t
 
 Writing clean code is matter of skill. A clean code must be focussed, simple, and testable so that it can **develop a software that is easy to change and maintain.**
 
->*Invenio uses this cross-platform object-oriented programming language that is concurrent and independent along with the best practices that enhances the coding standard to increase the performance and efficiency of the code*.
+>*InvenioLSI uses this cross-platform object-oriented programming language that is concurrent and independent along with the best practices that enhances the coding standard to increase the performance and efficiency of the code*.
 >*We give utmost importance to improve code quality and to decrease the code entropy.
 This includes all the clean coding principles which Invenio adopts to enhance the coding standards to keep the code readable and maintainable over time.*
 

@@ -1,10 +1,10 @@
 # Spring Testing Practices
 
-Spring Boot provides a `@SpringBootTest` annotation, which can be used as an alternative to the standard spring-test `@ContextConfiguration` annotation when you need Spring Boot features. The annotation works by creating the `ApplicationContext` used in your tests through SpringApplication. In addition to `@SpringBootTest` a number of other annotations are also provided for testing more specific slices of an application.
+Spring Boot provides a `@SpringBootTest` which works by creating the `ApplicationContext` used in the tests through SpringApplication. In addition to `@SpringBootTest` a number of other annotations are also provided for testing more specific slices of an application.
 
-## Isolate the Functionality to be Tested
+## Isolating the Functionality to be Tested
 
- Isolate the functionality you want to test by limiting the context of loaded frameworks/components. Often, it is sufficient to use the JUnit unit testing framework. without loading any additional frameworks. To accomplish this, you only need to annotate your test with `@Test`.
+ Isolate the functionality by limiting the context of loaded frameworks/components is important. JUnit testing framework can be leveraged here. It is important to annotate the class with @Test to accomplish this.
 
 ## @SpringBootTest Annotation
 
@@ -50,7 +50,7 @@ public class MapTests {
 
 ## Test the Web Layer
 
-Use `@WebMvcTest` to test REST APIs exposed through Controllers without the server part running. Only list Controllers that are being tested.
+Using `@WebMvcTest` will enable to test only the  REST APIs exposed through Controllers without the server part running.
 
 ```
 @RunWith(SpringRunner.class)
@@ -75,4 +75,6 @@ public class CarServiceControllerTests {
 }
 ```
 
-Refer to [Spring Boot Testing Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.testing.spring-boot-applications) documentation for detailed explaination and Best Practices for Spring Testing.
+### Reference:
+
+ [Spring Boot Testing Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.testing.spring-boot-applications) has provided a detailed explaination and Best Practices for Spring Testing.
