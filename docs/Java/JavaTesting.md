@@ -9,7 +9,7 @@ Java unit testing frameworks provide programmers with a standardized, sophistica
 - Expense:  The cost of maintenance for Java frameworks is relatively low.
 
 ## Java Testing Frameworks
-There ae different Java Testing Frameworks available for QA testers. Some of the best Java Testing Frameworks:
+There are different Java Testing Frameworks available for QA testers. Some of the Testing Frameworks that we use in Invenio are:
 - ### **JUnit**
 
     JUnit is one of the popular Java unit testing frameworks. The unit test is used in a path function or for testing a small piece of code. It plays a vital role in test-driven development and is a part of the collective unit test frameworks called xUnit.
@@ -45,6 +45,10 @@ There ae different Java Testing Frameworks available for QA testers. Some of the
     - It can be integrated with other popular BDD tools like JBehave, Cucumber, as well as test automation frameworks like JUnit.
     - Can be integrated with necessities stored in an external source (like JIRA or other test case management tools).
 
+    #### Resources
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+
 - ### **Selenium**
 
      Selenium is an automated open-source testing framework, that is used for cross browser testing. It is to control and manage web browsers through the program. This reduces the effort involved in the maintenance of the code. Three kinds of framework by Selenium for the automation of manual test cases: Keyword Driven Tests, Data-Driven Tests, and Hybrid Tests.
@@ -57,6 +61,9 @@ There ae different Java Testing Frameworks available for QA testers. Some of the
     - Supports parallel test execution, which increases efficiency and reduces the test execution time.
     - It can be integrated with frameworks such as Ant, Maven, etc.
 
+    
+    #### Resources
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 - ### **TestNG**
 
     TestNG is open-source testing framework that is more robust framework compared to other test automation frameworks. It is inspired by JUnit and NUnit. Its features like grouping tests, annotations, parameterization, etc., helps in creating tests at a faster pace.
@@ -70,6 +77,9 @@ There ae different Java Testing Frameworks available for QA testers. Some of the
     - Supports dependent test methods, load test, parallel tests, and partial failure.
     - Support for multiple threaded testing.
 
+    
+    #### Resources
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 - ### **Mockito**
 
     Mockito is an open-source testing framework that is primarily used for Java app unit testing. This framework generates mock objects by means of annotations. Mockito is used for writing behavioral-based development tests. This eases the test development by mocking exterior reliance and utilize it in the test implementation. Therefore, it gives a simplified test code that is understandable and easy to modify. 
@@ -78,6 +88,10 @@ There ae different Java Testing Frameworks available for QA testers. Some of the
     - Easily create mock objects using annotations like @Mock.
     - It offers verification on the order of the method calls.
     - Safe refactoring: As mock objects are formed at runtime, renaming a method or interface does not impact the test code.
+
+    
+    #### Resources
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 - ### **HTTPUnit**
 
     HTTPunit testing framework is based on JUnit. It imitates browser behavior like Page redirection, Form Submission, cookie management, and JS Validation, to name a few. It is used to test the website without the requirement of web browser. The framework also supports automatic page redirection, HTTP basic access authentication, HTML form submission, JavaScript, and cookies. This permits Java test code to process restored pages like XML Document Object Model (DOM), text, or containers of tables, forms, links, etc.
@@ -91,6 +105,9 @@ There ae different Java Testing Frameworks available for QA testers. Some of the
     - Better JavaScript support enables imitating the actions of the configured browser (Internet Explorer or Firefox).
     - Proxy server support as well as great JavaScript support.
 
+    
+    #### Resources
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 - ### **Gauge**
     Gauge is a Behavior Driven Java testing framework. This framework helps to develope automated frameworks and speed up the software development procedure. This open-source framework for Java takes the stress out of acceptance tests with minimum involvement of code.
 
@@ -101,6 +118,9 @@ There ae different Java Testing Frameworks available for QA testers. Some of the
     - Rapidly identify anomalies through screenshots of event failures.
     - Enables you to generate scalable tests through parallel execution and provides integrations with cloud-based solutions such as LambdaTest to address the objectives of rapid cross browser testing.
 
+    
+    #### Resources
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 - ### **Geb**
     Geb is also an open-source test framework. Geb brings together the grace of jQuery content selection and the capabilities offered by WebDriver, Page Object Modelling (POM), and clarity offered by the Groovy language. Geb can be integrated with popular test automation frameworks like TestNG, Cucumber, Spock, and JUnit. It supports Page Object Model design pattern
 
@@ -111,6 +131,9 @@ There ae different Java Testing Frameworks available for QA testers. Some of the
     - Well-suited for running regression tests.
     - While using Geb for automated tests, minimal test code modifications are needed if there are any UI changes in the app (or website). This minimizes the duplication of code.
 
+    
+    #### Resources
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 
 

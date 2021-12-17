@@ -26,3 +26,9 @@ The deployment of Java applications can be a cubersome and tedious process. To r
     - Load Testing and Performance Testing: These tools can be easily integrated into CI tools such as Apache Jenkins and/or Atlassian Bamboo. Tools like  [Apache JMeter](https://jmeter.apache.org/), [SmartMeter.io](https://www.smartmeter.io/) are suited for this purpose.
 
     - Automatic deployment:  Makes sure that the tool can deploy and install the application to the target environment.
+
+## Steps to follow
+
+
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum

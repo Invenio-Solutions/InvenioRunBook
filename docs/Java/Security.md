@@ -8,7 +8,6 @@
 Take a look into [Security Architecture in Java](https://www.baeldung.com/java-security-overview)
 
 ## Security in Java
-E:\InvenioRunBook\docs\Java\Java Features.md
 - [Cryptography](Cryptography.md)
 - [PKI Support](PKISupport.md)
 - [Authentication](Authentication.md)
