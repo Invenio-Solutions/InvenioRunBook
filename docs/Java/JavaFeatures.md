@@ -12,9 +12,7 @@ Security in java begins at its language feature level. This helps us to write se
 - **Automatic Memory Management** : Java has garbage-collection based memory management. Thus it relieves the developers from managing it manually.
 
 - **Bytecode Verification** : Java converts code into platform agnostic bytecode,and runtime verifies every bytecode it loads by checking the code fragments for illegal code that can violate access right to object.
-- **JVM**
-
-Java Virtual Machine plays a major role in verifyng the bytecode. JVM ensures that program do not take any unsafe operations. It helps to minimize the memory safety flaws.
+- **JVM** : Java Virtual Machine plays a major role in verifyng the bytecode. JVM ensures that program do not take any unsafe operations. It helps to minimize the memory safety flaws.
 
 - **Security API's**
 Java class libraries provide several API that ensures security.These APIs contain cryptographic algorithms and authentication protocols that lead to secure communication.
