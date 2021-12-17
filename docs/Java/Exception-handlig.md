@@ -51,7 +51,7 @@ There are three types of Java Exception.
 ## Default Exception Handling
 If an exception occurs inside a method, the method creates an Object known as **Exception Object** and hands it off to JVM(run-time system). This exception object contains a name, reason for the cause of exception and current state of the program where exception has occured.This creation of object and handling it ot run-time system is called throwing an exception.
 
-[Default Exception Handling](https://www.geeksforgeeks.org/exceptions-in-java/)
+
 
 ## Customized Exception handling
 
@@ -75,5 +75,3 @@ There are five keywords specified in java to handle the exceptions.
 - **throw** : The "throw" keyword is used to manually throw an exception.
 
 - **throws** : The "throws" keyword is used to declare exceptions. It doesn't throw an exception but specifies that an exception may occur in the method.
-
-For example : [Custom Exception](https://www.w3schools.com/java/java_try_catch.asp)
