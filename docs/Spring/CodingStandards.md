@@ -1,6 +1,8 @@
 # Spring Coding Standards
 
->> *We at InvenioLSI aspire to continously improve the code quality and to acheive this we adopt the following coding standards to make the code sustainable.*
+
+>> *We at InvenioLSI aspire to continously improve the code quality; and to acheive this we adopt the following coding standards to make the code sustainable.*
+
 
 ## Application Structure:
 
