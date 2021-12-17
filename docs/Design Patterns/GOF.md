@@ -14,20 +14,20 @@ The GoF Patterns can be broadly classified into three categories:
 ## Creational Patterns
 
 The creational pattern gives insight on creation of single object or group of related objects. This patterns is useful with polymorphism.  There are five creational design pattern.
-![The following diagram shows the integration of the static code analysis factor in the pipeline.](docs/docs-images/GOF_Creational.jpg)
+![The following diagram shows the integration of the static code analysis factor in the pipeline.](/docs/docs-images/GOF_Creational.jpg)
 
 
 ##  Structural Patterns
 
 Structural Patterns reflects on how the objects and the classes are related. There are seven structural pattern in GoF. There are seven structural patterns.
 
-![The following diagram shows the integration of the static code analysis factor in the pipeline.](docs/docs-images/GOF_Structural.jpg)
+![The following diagram shows the integration of the static code analysis factor in the pipeline.](/docs/docs-images/GOF_Structural.jpg)
 
 ## Behavioral Patterns
 
 The behavioral pattern of GoF highlights on how the classes and object communicates among each other. There are eleven behavioral patterns. 
 
-![The following diagram shows the integration of the static code analysis factor in the pipeline.](docs/docs-images/GOF_Behavioral.jpg)
+![The following diagram shows the integration of the static code analysis factor in the pipeline.](/docs/docs-images/GOF_Behavioral.jpg)
 
 
 > ### The following links provide a detailed overview on the GoF Patterns:
