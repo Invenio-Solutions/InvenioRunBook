@@ -2,7 +2,7 @@
 
 Microservice architecture  encompasess several independent and autonoumous services together to build an application. It focusses on loose coupling of the services.
 
-> The primary objective of the microservice architecture are:
+ The primary objective of the microservice architecture are:
 
 * Scalability
 * Decentralization
@@ -14,7 +14,7 @@ Microservice architecture  encompasess several independent and autonoumous servi
 * Failure Isolation
 * Auto -Provisioning
 
-> Incorporating microservices architechture brings in with its own set of challenges. To overcome those, there are various design pattern proposed that will aid in creating the architecture seamlessly. These patterns can be broadly categorized as:
+ Incorporating microservices architechture brings in with its own set of challenges. To overcome those, there are various design pattern proposed that will aid in creating the architecture seamlessly. These patterns can be broadly categorized as:
 1. Decomposition Patterns
 2. Integration Patterns
 3. Database Pattern 

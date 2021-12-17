@@ -21,7 +21,7 @@ The CI/CD constitutes of an automated cycle of build-package-test- deploy. Conti
 - It is a continuous inspection process, wherein the quality of the code is assessed in its non-runtime environment. It is an element of the static code analysis. 
 - The code along with the associated security vulnerabilities are scrutinized. This analysis reflects on the part of the code that can be optimized. The quality check is carried out at an early stage before the build process. 
 - To enable continuous inspection, SonarQube is integrated with Jenkins as a sonar scanner plugin. SonarQube analyzes the source code and provides a quality gate report. The progression of the pipeline is dependent on this quality gate report.
-[The following diagram shows the integration of the static code analysis factor in the pipeline.](docs\docs-images\CICD-Pic2.jpg)
+![The following diagram shows the integration of the static code analysis factor in the pipeline.](docs\docs-images\CICD-Pic2.jpg)
 
 ### Securing CI/CD Pipeline:
 - Security in a CI/CD pipeline is instilled through continuous security validation and monitoring. Security validation through security tools can be carried out at each step in the development process. Testing forms an essential part in ensuring a quality software. 
