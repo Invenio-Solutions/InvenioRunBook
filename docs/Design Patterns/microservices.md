@@ -1,6 +1,7 @@
-# Microservice Pattern:
+# Microservices Pattern:
 
-Microservice architecture facilitates loose coupling of the services by encompassing several independent and autonoumous services together to build an application.The primary objective of the microservice architecture are:
+Microservice architecture facilitates loose coupling of the services by encompassing several independent and autonoumous services together to build an application. [7 Microservices Benefits and How they Impact Development](https://www.capitalone.com/tech/software-engineering/10-microservices-best-practices/) details on the importance of the microservice architecture.The primary objective of the microservice architecture are:
+
 * Scalability
 * Decentralization
 * Resilient Services
@@ -48,6 +49,12 @@ A brief elaboration of some of the patterns under these categories is provided h
 ## Cross Cutting Concern Pattern:
 
 * **Circuit Breaker Pattern** : For the services that are dependent on the responses of other downstream services might faces challenges whenever that dependent service is down. This would have adverse affect on the performance as well as the user experience. As a preventive solution, circuit breaker approach can be used. Here, a remote service is used which has a threshold for failed request. If the threshold exceeds, it would go to a timeout period before taking any further request.
+
+The following provides a detailed information on these patterns:
+1.[Applying Microservice Architecture Pattern Language. ](https://microservices.io/articles/applying.html) 
+2. [Microservice Architecture and its 10 Most Important Design Patterns.](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
+3. [10 Microservices Best Practices](https://www.devteam.space/blog/10-best-practices-for-building-a-microservice-architecture/)
+4. [Microservices Best Practices](https://www.capitalone.com/tech/software-engineering/10-microservices-best-practices/)
 
 
 

@@ -1,5 +1,5 @@
 
-## CI/CD Pipeline:
+# CI/CD Pipeline:
 
 The CI/CD pipeline coordinates the streaming of the source code to the production environment, which is carried out through brief cycles of building, testing, deployment, and release. It primarily aims in automating and integrating continuous monitoring into the Software Development Lifecycle. Continuous Integration forms the initial stage that aims in enhancing the reliability of the code. Here, the initial code building and testing is performed. The CI facilitates the early detection and elimination of bugs in the code. The tests ensure the proper working of the code in various environment and hence, end-to-end efficiency can be achieved. The integration and automation ensure frequent release of high-quality software by reducing the odds of human errors. 
 
@@ -46,7 +46,7 @@ The CI/CD constitutes of an automated cycle of build-package-test- deploy. Conti
 
  > The goal of achieving an uninterrupted and impeccable release to production can be achieved by integrating the various tools for testing, security, and issue tracking as a plugin into the Jenkins server. However, the tools integrated into the CI/CD pipeline can vary based on the requirements. Each pipeline is unique and is dependent on the customer and business needs. 
 
- > We in InvenioLSI understand and support the variations in the requirements and the uses cases.
+ > **We in InvenioLSI understand and support the variations in the requirements and the uses cases.**
 
 
 
