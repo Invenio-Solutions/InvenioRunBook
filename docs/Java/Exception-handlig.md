@@ -2,7 +2,7 @@
 
 Exception handling in java is used to handle the runtime errors that disrupts the normal flow of the program. This mechanism helps to maintain and improve the performance of program statement.
 
-> We at InvenioLsi take utmost care that all the exceptions are handled in order to facilitate a seamless customer experience.
+> We at InvenioLsi take utmost care that the possible exceptions are handled in order to facilitate a seamless customer experience.
 
 The root class of Java Exception hierarchy is jang.lang.Throwable. It is inherited by two subclasses. They are,
 * Exception
