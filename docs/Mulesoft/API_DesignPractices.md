@@ -2,22 +2,25 @@
 
 ### Introduction:
 
-An API should be simple to understand and easy to use. An optimal API design enables application developers to easily recognize the purpose and functionality of the API. Following practices can be adopted to design a user-friendly and ideal API that persists.
+An API should be simple to understand and easy to use. An optimal API design enables application developers to easily recognize the purpose and functionality of the API. 
 
-#### Plan the API:
+>> *InvenioLSI ensures the adoption of the best API design standards for designing a user-friendly API that persists. The following enlists the best practices incorporated by InvenioLSI while designing its API*
 
-   * It is important that we understand who our target audience is, and try to advocate to their needs.
+#### Planning of the API:
 
-   * The understanding on the use-case, technologies that would interact and integrate with the API is imperative.
+   * Understanding who our target audience is, and try to advocate to their needs is important.
 
-   * An API should be optimized to fulfil a specific business request in a specific context.
+   * Having clarity on the use-case, technologies that would interact and integrate with the API is imperative.
+
+   * The API must be ptimized to fulfil a specific business request in a specific context.
 
    * Creating user stories that enlist and describes the entire set of actions/services that the API would provide would be benficial.
 
-   * The API follows a layered architecture wherein the API exposes the fine-grained services that users can access directly or according to the requirements and add coarse-grained services on top of them to support broader use cases. 
+   * Following a layered architecture wherein, the API exposes the fine-grained services that users can access directly or according to the requirements and add coarse-grained services on top of them to support broader use cases. 
 
-   * API design must envision sustainability.
-   * Versioning of an API should be caried out only in cases like incompatible platform changes or major changes in the specifications to meet the requirement of the clients.
+   * Envisioning sustainable API designing.
+
+   * Versioning of an API only in cases like incompatible platform changes or major changes in the specifications to meet the requirement of the clients.
 
 
 #### Focussing on the Specification:

@@ -21,11 +21,11 @@ The deployment of Java applications can be a cubersome and tedious process. To r
 - **Automate Deployment Process**
 
     Manual deployment may introduce unintended errors. Thus its better to go with automate deployment. There are various tools that allows to do an automated deployment. Factors thar are considered while choosing a deployment tool include:
-    - Automated Build tool: Build tool identifies the dependencies between files and package them for distribution. For Eg:-  [Apache Ant](https://ant.apache.org/), [Apache Maven](https://maven.apache.org/)
+    - **Automated Build tool**: Build tool identifies the dependencies between files and package them for distribution. For Eg:-  [Apache Ant](https://ant.apache.org/), [Apache Maven](https://maven.apache.org/)
 
-    - Load Testing and Performance Testing: These tools can be easily integrated into CI tools such as Apache Jenkins and/or Atlassian Bamboo. Tools like  [Apache JMeter](https://jmeter.apache.org/), [SmartMeter.io](https://www.smartmeter.io/) are suited for this purpose.
+    - **Load Testing and Performance Testing**: These tools can be easily integrated into CI tools such as Apache Jenkins and/or Atlassian Bamboo. Tools like  [Apache JMeter](https://jmeter.apache.org/), [SmartMeter.io](https://www.smartmeter.io/) are suited for this purpose.
 
-    - Automatic deployment:  Makes sure that the tool can deploy and install the application to the target environment.
+    - **Automatic deployment**:  Makes sure that the tool can deploy and install the application to the target environment.
 
 ## Steps to follow
 
