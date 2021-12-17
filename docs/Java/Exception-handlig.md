@@ -6,9 +6,31 @@ The root class of Java Exception hierarchy is jang.lang.Throwable. It is inherit
 * Error
 
 ## Hierarchy Of Java Exception Classes
-![Java Error Handling Exception Hierarchy](https://static.javatpoint.com/core/images/hierarchy-of-exception-handling.png)
 
-One branch is headed by exception and the onther by error. Exception class is used for exceptional conditions that user programs should catch. For example IOException,ArrayIndexOutOfBoundsException, etc.
+- Throwable
+  - Exception
+    - IO Exception
+    - SQL Exception
+    - ClassNotFound Exception
+    - Runtime Exception
+      
+      - Arithmetic Exception
+      - NullPointer Exception
+      - NumberFormat Exception
+      - IndexOutofBounds Exception
+
+        - ArrayIndexBounds Exception
+
+        - StringIndexOutOfBounds Exception
+    
+  - Error
+    - StackOverFlow Exception
+
+    - VirtualMachine Error
+    - OutOfMemory Error
+
+
+It is divided into exception and error. Exception class is used for exceptional conditions that user programs should catch. For example IOException,ArrayIndexOutOfBoundsException, etc.
 
 JVM indicates error present in the run time environment. For example StackOverFlow etc.
 
@@ -18,7 +40,7 @@ There are three types of Java Exception.
 * Unchecked Exception
 * Error
 
-![Types of JE](https://static.javatpoint.com/core/images/types-of-exception-handling.png)
+
 
 * **Checked Exception**:- The classes that directly inherit the Throwable class except RuntimeException and Error are known as checked exceptions. For example, IOException, SQLException, etc. Checked exceptions are checked at compile-time.
 
