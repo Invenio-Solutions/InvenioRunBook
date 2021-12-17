@@ -5,7 +5,7 @@ The CI/CD pipeline coordinates the streaming of the source code to the productio
 
 ## How is it acheieved? :
 
-            ![Basic CI/CD pipeline process](docs-images/CICD-Pic1.jpg)
+![Basic CI/CD pipeline process](docs-images/CICD-Pic1.jpg)
 
 The CI/CD constitutes of an automated cycle of build-package-test- deploy. Continuous Integration can be achieved using automation tools such as Jenkins. 
 - **Source** - It is the initial stage that accounts for the code commit and the version control. GIT tool is used for this.
