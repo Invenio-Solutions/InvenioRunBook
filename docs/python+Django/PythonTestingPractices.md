@@ -31,4 +31,4 @@ Last but not least...
 * For test cases based on complex data structures, which requires to load every time to run tests are heavier and requires separate test suite.
 * Such separate test suites can be executed by some scheduled task, but run all other tests as frequently as needed.
 ***
-[Refrence link for the testing best practices](https://docs.python-guide.org/writing/tests/)
+[Refrence link for the testing best practices](https://docs.python.org/3/library/test.html)

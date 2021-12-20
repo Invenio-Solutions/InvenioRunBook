@@ -19,6 +19,3 @@ Django is a high level framework to build scalable web applications. Django is u
     - fix bugs,
     - PUSH to the repo and staging, and then
     - test again in staging before shipping the code.
-
-***
-[Refrence link for the testing best practices](https://learndjango.com/tutorials/django-testing-tutorial)

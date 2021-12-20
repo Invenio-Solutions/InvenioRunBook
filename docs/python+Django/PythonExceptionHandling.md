@@ -24,6 +24,6 @@ Python provides a keyword finally, which is always executed after the try and ex
 The raise statement allows the programmer to force a specific exception to occur. The sole argument in raise indicates the exception to be raised. This must be either an exception instance or an exception class (a class that derives from Exception).
 
 ***
-[Click here](https://www.askpython.com/python/python-exception-handling) for the detailed explanation of exception handling in python.
+[Click here](https://wiki.python.org/moin/HandlingExceptions) for the detailed explanation of exception handling in python.
 
 
