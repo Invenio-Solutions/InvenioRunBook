@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Security
 >  Security is inevitable for creating an effective and reliable application. InvenioLsi ensures the incoporation of standard security practices into its applications.
 

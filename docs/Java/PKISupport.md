@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # PKI Support in Java
 Java platform has APIs to [facilitate the creation, storage, and validation of digital certificates:](https://docs.oracle.com/javase/9/security/java-pki-programmers-guide.htm#JSSEC-GUID-650D0D53-B617-4055-AFD3-AF5C2629CBBF)
 - **KeyStore** : Java provides the KeyStore class for persistent storage of cryptographic keys and trusted certificates. KeyStore can represent both key-store and trust-store files. These files have similar content but vary in their usage.

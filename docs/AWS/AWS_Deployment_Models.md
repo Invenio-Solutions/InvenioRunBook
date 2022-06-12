@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 ## Introduction
 
 Amazon Web Services offers multiple options for provisioning your IT infrastructure and the deployment of your applications. Whether it is a simple three-tier application or a complex set of workloads, the deployment model varies from customer to customer.

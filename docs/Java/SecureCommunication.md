@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Secure Communication
 
 Java provides APIs to [secure network communication](https://docs.oracle.com/javase/9/security/java-secure-socket-extension-jsse-reference-guide.htm#JSSEC-GUID-93DEEE16-0B70-40E5-BBE7-55C3FD432345) with encryption, message integrity, and client-server authentication:

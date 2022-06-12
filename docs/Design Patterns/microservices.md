@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Microservices Pattern:
 
 Microservice architecture facilitates loose coupling of the services by encompassing several independent and autonoumous services together to build an application. [7 Microservices Benefits and How they Impact Development](https://www.capitalone.com/tech/software-engineering/10-microservices-best-practices/) details on the importance of the microservice architecture.The primary objective of the microservice architecture are:

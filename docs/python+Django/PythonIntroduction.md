@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 
 # Introduction
 Welcome to InvenioLSI! Our runbook service plays a key role at every stage of the development cycle. Our dedicated team of over writers and domain experts makes our clients using our tools and techniques convert complex technical information into easily understood literature, keeping users abreast of new products and upgrades, reducing training and customer support costs.

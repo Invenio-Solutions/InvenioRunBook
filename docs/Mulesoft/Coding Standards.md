@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # API Coding Standards
 
 For an organized, comprehensible and a sustainable project, it is imperative that we adhere to the following coding standards as summarized below:

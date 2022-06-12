@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Spring Exception Handling
 
 It is often noticed that exception handling with multiple try and catch blocks has an adverse impact on the readability of the code. Spring has an excellent features that enables us to avoid the duplications and hence improve code readability.

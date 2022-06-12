@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 
 # Python Deployment
 Deployment involves packaging up your web application and putting it in a production environment that can run the app. Python web application deployments are comprised of many pieces that need to be individually configured.

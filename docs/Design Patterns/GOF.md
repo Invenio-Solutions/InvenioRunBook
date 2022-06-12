@@ -1,4 +1,7 @@
-# GoF (Gang of Four) Pattern :
+---
+sidebar_position: 3
+---
+# GoF (Gang of Four) Pattern
 
 >Invenio advocates the use of GOF patterns wherever necessary for creational, behavioral and structural patterns while designing the classes agnostic to the language that supports OOP like Java, C++ etc.
 

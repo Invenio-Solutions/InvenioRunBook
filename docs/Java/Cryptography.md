@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Cryptography
 
 Cryptography is the cornerstone of security features in Java. It refers to the tools and techniques for secure communication in the presence of adversaries.

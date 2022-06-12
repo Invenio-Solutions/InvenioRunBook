@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Spring Security Practices
 
 Incorporation of security framework is enevitable for developing a reliable application. Spring has its in-built security framework that can be imbibed in the application as a starter dependency. 

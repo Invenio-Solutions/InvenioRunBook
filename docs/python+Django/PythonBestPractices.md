@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Python Best Practices:
 
 >> InvenioLsi continously strives to incorporate the best practices that must be followed during a code design to facilitate an effeicent and sustainable application.
