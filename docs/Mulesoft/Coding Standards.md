@@ -6,7 +6,7 @@ For an organized, comprehensible and a sustainable project, it is imperative tha
 
 - Payload logging should be avoided in order to ensure better performance and security of the appplication.
 
-- Naming conventions should be followed in order to ease the identification of the flow, sub-flows etc. The details related to naming conventions can be found [here.](API_Implementation.md)
+- Naming conventions should be followed in order to ease the identification of the flow, sub-flows etc. The details related to naming conventions can be found [here.](./Conventions.md))
 
 - To ensure consistency, incorporation of common logging and error handling frameworks is encouranged.
 
