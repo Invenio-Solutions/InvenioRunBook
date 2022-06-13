@@ -1,3 +1,6 @@
+---
+sidebar_position: 23
+---
 # Deployment
 
 The deployment of Java applications can be a cubersome and tedious process. To reach an optimal deploement, it is always encouraged to adopt the best practices to improve the deployment process to mitigate deployment risk. Invenio always follows the best practices to deliver a highly efficient product within the specified time. Some of them are:

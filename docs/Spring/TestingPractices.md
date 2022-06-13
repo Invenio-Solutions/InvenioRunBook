@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Spring Testing Practices
 
 Spring Boot provides a `@SpringBootTest` which works by creating the `ApplicationContext` used in the tests through SpringApplication. In addition to `@SpringBootTest` a number of other annotations are also provided for testing more specific slices of an application.

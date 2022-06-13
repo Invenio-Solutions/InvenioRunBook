@@ -1,3 +1,6 @@
+---
+sidebar_position: 31
+---
 
 # Django Security Best Practices 
 

@@ -1,4 +1,7 @@
-# Placeholder
+---
+sidebar_position: 9
+---
+# kafka Best Practices
 
 - https://docs.aws.amazon.com/msk/latest/developerguide/bestpractices.html
 - https://aws.amazon.com/blogs/big-data/best-practices-for-running-apache-kafka-on-aws/

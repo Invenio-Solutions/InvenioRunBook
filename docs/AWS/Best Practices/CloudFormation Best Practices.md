@@ -1,3 +1,6 @@
+---
+sidebar_position: 7
+---
 **Designing the Stack Template**
 
 - Leave credentials out of your templates.  Instead, use dynamic references, like AWS Secrets Manager.

@@ -1,3 +1,6 @@
+---
+sidebar_position: 42
+---
 # Deployment Models:
 
 Mulesoft's AnyPoint Platform has provided a number of deployment models namely

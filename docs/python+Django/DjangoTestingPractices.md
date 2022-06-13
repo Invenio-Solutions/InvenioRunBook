@@ -1,3 +1,6 @@
+---
+sidebar_position: 32
+---
 
 # Django Testing Practices
 

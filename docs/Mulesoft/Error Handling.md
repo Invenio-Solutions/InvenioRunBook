@@ -1,3 +1,6 @@
+---
+sidebar_position: 43
+---
 # Error Handling
 
 Error Handling forms an innate part of a seamless microservices architechture. Invenio ensures that it leverages the provisions mule has provided for error handling. Mule has categorized errors as:

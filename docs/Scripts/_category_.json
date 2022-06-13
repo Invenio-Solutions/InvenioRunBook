@@ -1,0 +1,8 @@
+{
+  "label": "Custom Scripts",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Custom Scripts written for All Invenio Projects."
+  }
+}

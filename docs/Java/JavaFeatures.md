@@ -1,3 +1,6 @@
+---
+sidebar_position: 11
+---
 # Java Features
 
 Java is the most popular object oriented programming  and platform independent language, that offers different varities of salient features as preffered by developers.

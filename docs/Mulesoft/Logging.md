@@ -1,3 +1,6 @@
+---
+sidebar_position: 45
+---
 # Logging in Mule
 
 Logging is an important part of an application. It ensures and eases troubleshooting and provides visibilty and tracebility on the functioning of the components. It helps in analyzing and debugging an application.

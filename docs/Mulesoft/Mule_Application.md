@@ -1,3 +1,6 @@
+---
+sidebar_position: 46
+---
 # MULE APPLICATION BEST PRACTICES
 
 It is important that we bring about consistency while creating our Mule Application so that these applications are easily comprehendable within the organization as well as to the clients. 

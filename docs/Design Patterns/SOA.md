@@ -1,3 +1,6 @@
+---
+sidebar_position: 55
+---
 # SOA Design Patterns: 
 
 ## References for SOA Design Patterns:

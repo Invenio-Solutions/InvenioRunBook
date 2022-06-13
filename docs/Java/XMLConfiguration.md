@@ -1,3 +1,6 @@
+---
+sidebar_position: 17
+---
 # XML Signature
 XML signatures are useful in securing data and provide data integrity. W3C provides recommendations for governance of XML Signature. XML Signature is also used to secure data of any type.
 

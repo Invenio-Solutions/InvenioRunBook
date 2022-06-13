@@ -1,3 +1,6 @@
+---
+sidebar_position: 26
+---
 
 # Python Security Best Practices
 
