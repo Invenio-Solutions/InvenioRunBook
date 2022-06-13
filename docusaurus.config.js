@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Invenio Runbook',
   tagline: 'InvenioLSI Base Documentation',
-  url: 'https://invenio-solutions.com',
-  baseUrl: '/',
+  url: 'http://ec2-54-89-235-222.compute-1.amazonaws.com/',
+  baseUrl: '/runbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon-32x32.png',
