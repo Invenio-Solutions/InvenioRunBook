@@ -1,3 +1,6 @@
+---
+sidebar_position: 9
+---
 # kafka Best Practices
 
 - https://docs.aws.amazon.com/msk/latest/developerguide/bestpractices.html

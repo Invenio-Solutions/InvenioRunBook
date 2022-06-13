@@ -1,3 +1,6 @@
+---
+sidebar_position: 6
+---
 **Security**
 - Manage access to AWS resources and APIs using identity federation, IAM users, and IAM roles. Establish credential management policies and procedures for creating, distributing, rotating, and revoking AWS access credentials.
 - Implement the least permissive rules for your security group.

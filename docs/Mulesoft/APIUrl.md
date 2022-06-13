@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 38
 ---
 ## API URL:
 API URL plays an important role in organizing and categorizing the APIs. An optimal API URLs should map to the business domains and process they are catering to. The following should be considered while designing the API URL.

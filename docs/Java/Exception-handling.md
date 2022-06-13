@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 12
 ---
 # Exception Handling
 Exception handling in java is used to handle the runtime errors that disrupts the normal flow of the program. This mechanism helps to maintain and improve the performance of program statement.

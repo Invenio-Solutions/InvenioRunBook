@@ -69,7 +69,11 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          /*{
+            to: '/blog', 
+            label: 'Blog', 
+            position: 'left'
+          },*/ // remove block comment to enable blogs 
           {
             href: 'https://github.com/skyh0rn/InvenioRunBook',
             label: 'GitHub',

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 20
 ---
 # Authentication
 Authentication carries out the verification of the identity of a user or machine based on additional data like password, token, or a variety of other credentials available.

@@ -1,3 +1,6 @@
+---
+sidebar_position: 8
+---
 **Security**
 
 - Implement least previlege access - only giving access to resources it needs - policy using Identity Access Management(IAM). Create IAM users for each person who uses Elastic Beanstalk to avoid using your root account or sharing credentials.

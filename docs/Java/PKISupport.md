@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 22
 ---
 # PKI Support in Java
 Java platform has APIs to [facilitate the creation, storage, and validation of digital certificates:](https://docs.oracle.com/javase/9/security/java-pki-programmers-guide.htm#JSSEC-GUID-650D0D53-B617-4055-AFD3-AF5C2629CBBF)
